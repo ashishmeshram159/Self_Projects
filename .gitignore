@@ -1,0 +1,34 @@
+# Ignore Python cache:
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ignore virtual environments:
+ft_env/
+.env/
+
+# Ignore Jupyter Notebook checkpoints:
+.ipynb_checkpoints/
+
+# Ignore logs and database files:
+*.log
+*.sqlite3
+
+# Ignore system files:
+.DS_Store
+Thumbs.db
+
+# Ignore environment variables and secrets:
+.env
+config.yaml
+
+# Ignore everything in these folders:
+Classification_F_T/*
+Generative_F_T/*
+PEFT_QLoRA_Conversational_Data/*
+
+# But allow .ipynb files:
+!Classification_F_T/*.ipynb
+!Generative_F_T/*.ipynb
+!PEFT_QLoRA_Conversational_Data/*.ipynb
