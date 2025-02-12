@@ -1,8 +1,12 @@
 import os
+
+from dotenv import load_dotenv
 from langchain_community.document_loaders import PyPDFLoader, TextLoader
 from langchain_text_splitters import RecursiveCharacterTextSplitter
 from langchain_openai import OpenAIEmbeddings
 from langchain_community.vectorstores import Chroma
+
+load_dotenv()
 
 # Define persistent storage directory
 current_dir = os.path.dirname(os.path.abspath(__file__))
