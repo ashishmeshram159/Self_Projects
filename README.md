@@ -1,6 +1,6 @@
 # Self-Projects Repository
 
-Welcome to my self-projects repository! This collection showcases various AI and Machine Learning projects I've undertaken, focusing on areas such as LLM fine-tuning, Retrieval-Augmented Generation (RAG), Sports News Generation, News Classification and many more to come later...
+Welcome to my Self_Projects repository! This collection showcases various AI and Machine Learning projects I've undertaken, focusing on areas such as LLM fine-tuning, Retrieval-Augmented Generation (RAG), Sports News Generation, News Classification and many more to come later...
 
 ## Projects:
 
