@@ -38,5 +38,5 @@ To get started with any of these projects:
    cd Self_Projects
 
 2. **Install dependencies:**
-  ```bash
-   pip install -r new_ft_requirements.txt
+   ```bash
+     pip install -r new_ft_requirements.txt
