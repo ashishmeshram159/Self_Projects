@@ -1,6 +1,6 @@
 # Self-Projects Repository
 
-Welcome to my self-projects repository! This collection showcases various AI and Machine Learning projects I've undertaken, focusing on areas such as LLM fine-tuning, candidate recommendation systems, resume parsing, Retrieval-Augmented Generation (RAG), and more.
+Welcome to my self-projects repository! This collection showcases various AI and Machine Learning projects I've undertaken, focusing on areas such as LLM fine-tuning, Retrieval-Augmented Generation (RAG), Sports News Generation, News Classification and many more to come later...
 
 ## Projects:
 
@@ -10,7 +10,7 @@ Welcome to my self-projects repository! This collection showcases various AI and
   - Optimized memory usage to train models on consumer GPUs.
   - Enhanced model performance on specific language tasks.
 
-### 2. **Generating Sports News with SmolLM-135M**
+### 2. **Generating Sports News with SmolLM-135M and SmolLM2-1.5B model**
 - **Description:** Fine-tuned the lightweight SmolLM-135M and SmolLM2-1.5B model for sports news generation.
 - **Highlights:**
   - Implemented efficient text generation pipelines.
